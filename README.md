@@ -1,6 +1,16 @@
-# Programacion-Funcional---Luna-Marcelo-Joaquin
+# PracticaFuncional
 
-pasos para ejecutar el proyecto:
+## Instrucciones de Ejecución
 
-#1- dirigirse a la carpeta: src/main/java\org\example/main.java
-#2- ejecutar el archivo
+Para compilar y ejecutar los ejercicios, utilice el wrapper de Gradle incluido.
+
+### Ejecutar la clase principal (main)
+
+Esta instrucción asume que ha configurado el plugin `application` y una `mainClassName` en su archivo `build.gradle`.
+
+Los archivos de código fuente principales deben ubicarse en: `src/main/java/`
+
+Bash
+gradlew.bat run
+
+o el boton verde (RUN)
